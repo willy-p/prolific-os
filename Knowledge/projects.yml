@@ -1,0 +1,15 @@
+projects:
+  - id: bmgf
+    name: BMGF
+    description: Bill & Melinda Gates Foundation grant workstream.
+    status: active
+    priority: P1
+    owner_ids:
+      - will_paton
+    team_ids: []
+    stakeholder_ids: []
+    goals: []
+    start_date: null
+    due_date: null
+    notes: []
+    last_updated: 2026-01-05

@@ -1,0 +1,278 @@
+## Jan 5, 2026 | [ Kiana / Will](https://www.google.com/calendar/event?eid=NWwycjF1cTQxMmc2dG9scDZicnJnMzY3cW1fMjAyNjAxMDVUMjEwMDAwWiB3aWxsQHByb2xpZmljLW1hY2hpbmVzLmNvbQ)
+
+Attendees: [Will Paton](mailto:will@prolific-machines.com) [Kiana Mohajeri](mailto:kiana.mohajeri@prolific-machines.com)
+
+Pre-meeting notes \- Will
+
+* 
+
+Action items
+
+- [ ] 
+
+## 
+
+## 
+
+## Dec 16, 2025 | [ Kiana / Will](https://www.google.com/calendar/event?eid=MDY3Ym1yMjAyMzM5cWJiZ2xtNWVtZjBmNHIgd2lsbEBwcm9saWZpYy1tYWNoaW5lcy5jb20)
+
+Attendees: [Will Paton](mailto:will@prolific-machines.com) [Kiana Mohajeri](mailto:kiana.mohajeri@prolific-machines.com)
+
+Pre-meeting notes
+
+* Kiana \- thank you for reaching out to Engine room\! Current understanding/status of the financial side of grant management? I’d like to attend initial meeting with Christina so I understand but am fine with you taking lead/updating me going forward  
+* Kiana \- next meeting with Gates team, want to have biorender images showing different approaches we’re taking. We may not have data at the time of that meeting, which is fine, but should be prepared to orient to what we’re trying  
+  * Request for Will \- able to take a stab at biorender images?   
+  * Want to figure out if there’s a reason to keep the meeting to only technical folks, preference for Will to attend/have context   
+* Clarifying approach to CMV \- not to our benefit to chase a perfect comparison   
+* Examples of a few GA presentations to date:  
+  * [September](https://docs.google.com/presentation/d/1OfTpcv-BRjA3SUcxWsDeeaGq-sebkoHHBSgfV606pu0/edit?usp=sharing) \- when we had early datapoints but not a whole lot   
+  * [December](https://docs.google.com/presentation/d/14Cx_yS8sWLDaoopObbvkND7IPWv784DA1Gne2MClRX0/edit?usp=sharing) \- most recent update meeting   
+  * I’m a big fan of this aesthetic for external updates \- would like to work together to make these for Gates on whatever their cadence is \- monthly?  
+* Help me get set up with AI notetaker? Needs to be idiot-proof
+
+  * I’ve been using [Granola](https://notes.granola.ai/i/3e3688b4d21af480ec1c101137f1f0e9) as a notetaker and really like it. If you follow that link you should be able to sign up for free \- I was able to get a full year of access for the entire team for free. Make sure to go to **Settings \> General \> Use my data to improve models for everyone \> OFF** before you start using it.
+
+* **Will \- Where to find everything**  
+  * ClickUp  
+    * [Project Wiki](https://app.clickup.com/36217409/v/dc/12h8j1-43011) \- good resource for finding   
+    * Timelines, meeting notes (team \+ offline) are all stored in ClickUp since I joined the project  
+  * Google Drive  
+    * [BMGF Grant Management](https://drive.google.com/drive/folders/1JXaDSkUPpT3ZSSIATqd0H3BCTeMTclOj?usp=drive_link) folder \- restricted (Nessa is owner, working on changing ownership)  
+      * This contains all of the grant application stuff, timesheets, SOPs, original project updates, etc. This was the main folder Nessa used for the project.  
+    * Active Projects \> [PM6.3 BMGF](https://drive.google.com/drive/folders/1w5M5hoJNorv5WHrAbubQo7gr1irkAURc?usp=drive_link)  
+      * In shared Prolific folder. Team doesn’t really use this \- main things of note here are the monthly project updates.  
+  * Benchling  
+    * [PM6.3 BMGF \- Humira/MAM01](https://prolific-machines.benchling.com/prolific-machines/f_/miDFdqrn-pm6-3-bmgf-humiramam01/) (main Benchling Project \- you’re now Admin, Nessa removed)  
+    * [PM6.3 BMGF \- Analytical Chemistry](https://prolific-machines.benchling.com/prolific-machines/f_/HbdTkRKiJw-pm6-3-1-bmgf-analytical-chemistry/) (this is for sensitive MAM01 analytical data only \- you and Ian are Admins, Nessa removed)  
+      * We can create folders within this project to provide more permissive access (currently one for Sasha and one for Brenna)  
+  * Slack  
+    * **\#bmgf** \- main channel  
+    * **\#mam01-pool-beacon** – used for coordinating with Irfan, Amritha, Shahram re: the recent beacon run. **Can probably be archived** now that we’ve gotten those cells handed off.  
+    * **\#opto-cyr2oligo-pools** – Nessa used for coordinating with Opto re: which cry2oligo pools to get from them. **Can likely be archived** now that Amritha is generating cry2oligo pools
+
+Action Items:
+
+* Kiana to share doc with Will and Victor outlining questions for lawyers around MTA and grant doc  
+* Will \- Slack follow up \- channel manager \- Declan to do  
+* will \- schedule whiteboard session this week for biorender images / update skeleton  
+* Kiana \- get beacon data from Irfan and Amritha  
+* Will \- look at MTA. is firewalling necessary?  
+* Kiana to get a read from Deniz on FTO considerations for MAM01 \- what’s his take? Nessa’s takeaways differ from Kiana’s  
+* Will \- team meeting. move to weekly cadence \- just to start. can revisit  
+  * encourage people to use offline meeting notes  
+* Figure out how to ask Gates about FTO for these cell lines  
+* Ask in next conversation with GF →how important are Aims 2 and 3?
+
+## Dec 12, 2025 | Notes from meeting with Nessa ([Granola.ai](http://Granola.ai)), also captured below
+
+Fri, 12 Dec 25
+
+### **Top of mind**
+
+* Freedom to operate (FTO) considerations for Gates Foundation cell lines  
+  * Gates Foundation no longer prioritizing MAM01 as target molecule \- won’t be competitive with other products coming to market  
+  * Focus shifting to RSV candidate which they’re “super excited about”  
+  * Current strategy: close out MAM01 project, demonstrate proof of concept, then move on  
+  * Kiana needs to follow up with Dennis to confirm this is still his understanding
+
+### **Updates and wins**
+
+* Team already achieved \>10g/L production with light-inducible system in 14-day Humira runs  
+  * Gates Foundation “stoked” by these results  
+  * Demonstrates core feasibility of the technology  
+* John R actively doing molecular cloning for super all-in-one selectable transactivator  
+  * Transfections planned for next week  
+* Recent receipt of 5 additional vials of purified MAM01 from Gates Foundation  
+  * Now have 7 vials total for quality assessment work  
+* Amritha’s pools should be ready mid-January
+
+### **Challenges and blockers**
+
+* Cannot achieve true apples-to-apples comparison between opto and CMV systems  
+  * Original plan used ROSA locus integration, now using piggyback integration  
+  * Unknown copy numbers and genomic integration sites make direct comparison impossible  
+  * Need transparency about what constitutes “parent cell line” given pool-based heterogeneity  
+* Original CMV cell lines for Aims 2&3 work don’t express GAVPO  
+  * May need to use new transactivator with selectable drug cassette  
+  * Alternative: Sleeping Beauty co-transfection approach (GS selection for antibody, blasticidin for transactivator, puromycin for Blimp1/PYC2)  
+* Engine Room financial management issues  
+  * Previous timesheets had incorrect percentages for award personnel  
+  * They’ve incorrectly charged building rent and contract employees to the award  
+  * Don’t break down expenses by original budget categories, making it difficult to track 10% overspend limits  
+* Limited supply of purified MAM01 material  
+  * Only 7 vials total available from Gates Foundation  
+  * Must reserve remaining supply for critical quality assessments at project end  
+  * Using Humira as surrogate for most analyses, though some complications with Octet assays
+
+### **Mutual feedback**
+
+* Nessa emphasized importance of keeping team focused on grant deliverables vs exploratory work  
+  * Shahram proposing additional experiments (double selection, CMV+light-inducible promoters) that aren’t foundation requirements  
+  * Need to prioritize getting light-inducible cell line to Sasha quickly  
+* Team members expressed uncertainty about project direction and leadership  
+  * Told to continue current work until Kiana provides different guidance  
+  * May need to reduce Basanta’s workload to focus on most critical tasks (currently split 50/50 across projects)
+
+### **Action Items**
+
+* **Kiana**: Read Gates Foundation MTA regarding MAM01 data sharing restrictions  
+  * Only Ian, Brenna (limited), and Sasha (limited) should have access to analytical data  
+  * No external distribution allowed due to CDMO partner proprietary information  
+* **Kiana**: Follow up with Deniz about MAM01 project closure strategy  
+* **Will**: Correct timesheet percentages to match original budget allocations  
+  * Double-check against budget sheet for accurate personnel percentages  
+* **Will**: Contact Engine Room to redirect monthly invoices and reports to Kiana  
+  * Request spend-to-date summary through November  
+  * Ask for HappiLabs purchase breakdown showing who placed orders  
+* **Will \+ Kiana**: Meet with Amritha next week about pool handoff timing (meeting scheduled)  
+* **Kiana**: Touch base with team members today to confirm continuation of current work  
+* **Kiana**: Ensure to communicate clearly with Gates Foundation if not pursuing MAM01 integration for Aims 2&3  
+* **Nessa**: Send updated grant document and check for additional progress report requirements  
+* **Nessa**: Potentially join next week’s meeting after Kiana has time to digest technical scope
+
+---
+
+Chat with meeting transcript: [https://notes.granola.ai/t/90f457d9-6e07-4249-862c-d589c2ed2e70](https://notes.granola.ai/t/90f457d9-6e07-4249-862c-d589c2ed2e70)
+
+## 
+
+## Dec 12, 2025 | [ Kiana / Will](https://www.google.com/calendar/event?eid=Nmk5aHZjMGd1NWg4b2FvMWY5MjdiZW01Y2sgd2lsbEBwcm9saWZpYy1tYWNoaW5lcy5jb20)
+
+Attendees: [Will Paton](mailto:will@prolific-machines.com) [Kiana Mohajeri](mailto:kiana.mohajeri@prolific-machines.com)
+
+Attached files: [Notes -  Kiana / Will](https://docs.google.com/document/d/1n972G_5XrHWtmLzl8DA8cHNqJd5Y2GI1WfVHJ61TSLY/edit) 
+
+Notes
+
+* Notes for Nessa:  
+  * FTO requirements for cell lines for Gates \- for super allinone \- is it currently FTO?   
+    FTO considerations  
+* didn’t care about humira FTO  
+* recent convo with Jacqueline in Seattle \- they don’t care about MAM01 as a target \- won’t be competitive with other things coming to market  
+* more excited about RSV  
+* focus now: close out project, show proof of concept  
+* Kiana to follow up with Deniz  
+  * What are the CMV lines we have \- what’s their relationship to current workstreams?  
+    * How to do apples-to-apples comparison? Now, since no ROSA locus, hard to do a true a2a comparison (can’t confirm same location of integration, same copy number)  
+    * Now \- do comparison To the best of our ability  
+    * “What is truly the host cell?” \- it’s pool-based so there’s heterogeneity  
+    * Need to be transparent about reporting \- what are we calling our parent cell line?  
+    * Original plan was to never go clonal (Just minipool)  
+    * Their original thinking was that our parent line would be homogeneous  
+    * They want to know about TA stability as much as mAb stability  
+    * Current engineering \- light-inducible and CMV counterpart   
+    * John has 47 clones from original CMV \- in production runs right now  
+  * How are we thinking about the timelines for the grant? How about how we’re spending money right now?  
+    * What should we watch out for?  
+      * Budget considerations \- we will meet with Christina  
+    * Budget  
+      * Previous timesheets were off (percentages on the award)  
+      * Engine room sends monthly reports from HappiLabs  
+      * Nessa does timesheets \- sends to Engine room \- then they send back to Nessa \- then gets paid against award  
+      * Original award distributions  
+        * Engine room doesn’t break them down by expense categories. Will can help with this  
+        * According to foundation \- we can’t go over by original category spend by \>10%  
+        * Last reporting \- they didn’t check on specific categories  
+        * Equipment money was moved back into other categories \- need to remind Christina / Engine Room that this money has already been spent.  
+        * Salaries for the award  
+          * These were on the high end of salary range for that role at the beginning of the award  
+    * Timeline  
+      * Award ends in end of March  
+      * Final progress report due end of May (60 days after end of award)  
+    * **When is next progress update due?**  
+      * Nessa will check in emails for any communications from Gates Foundation  
+  * Is one dataset for STRIDE for both Lona and Gates OK?  
+  * Aims 2 & 3  
+    * Original cell lines to do Aim ⅔ work \- seem to not express GAVPO  
+    * Discussions with Shahram about sleeping Beauty version  
+      * GS selection for antibody, blasticidin for TA, Puro selection for Blimp1/PYC2  
+    * Individual aims: “all or none approach”  
+      * Aims are Supposed to be freestanding.   
+      * If one aim succeeds, then don’t need to succeed with the other aims  
+      * PYC2 was originally supposed to be a red light system. That has been scaled back to use blue light system  
+    * How would they respond if we just do mechanistic demonstration of blimp, PYC2 in Humira?  
+      * Now that they don’t care as much about MAM01, any PoC data would be good  
+      * Just need to let them know that we are making this change  
+      * They know the titers we’re hitting with opto humira  
+      * They’ve been ok with changes \- just want us to show that we can get to PoC. Final aim: show that light-inducible system can out-perform CMV production and produce a blueprint for getting to 10g/L in a 14-day production run  
+      * They are already very excited about the \>10g/L data for an inducible line in Humira \-   
+* Notes from shahram meeting:  
+  * What is cld doing for BMGF? OPto-chassis work makes sense  
+  * He feels we should down-select ASAP too  
+  * Amritha mentioned that she’s not doing much for BMGF- but wants to hand things off  
+  * Which clones represented in current down-selection. Kiana to follow-up with seesha on what these actually are  
+* STRIDE  
+  * Lonza work- need to show improved secretory capacity (any accessory, now using Humira)  
+  * In Jan, Jared will take stock of what we’ve tried and hasn’t worked  
+  * One dataset for Lonza and Gates  
+  * John H is setting up a BLIMP staining assay  
+* PYC2 \-   
+  * Can we get this in the same context as the Lonza BLIMP vectors?  
+* Cloning into Prolific vector backbone for MAM01  
+  * Definitely will happen in new year  
+  * John H is aware of this \- aligned with Shahram, Max Ho about the priority  
+  * For GA, need to consider vector changes that could increase titer and minimize leak  
+  * Newest version of prolific vector \- use the same for GA, BMGF, Humira, Lonza, etc…
+
+* Team perspective:  
+  * Nessa said to keep working on what they’re doing  
+  * Nessa suggested that team check in with Kiana and Nessa re: current work  
+  * May need to reduce Basanta’s workload \- untangle what work is related to   
+  * 
+
+Action items
+
+- [x] ~~Will \- set up meeting with Amritha next week~~  
+      - [ ] What info is needed on both sides for handoff? Share what each side is thinking  
+- [x] ~~Will \- share BMGF grant management drive~~  
+      - [ ] [BMGF Grant Management](https://drive.google.com/drive/folders/1JXaDSkUPpT3ZSSIATqd0H3BCTeMTclOj)  
+- [ ] Will \- Remind Kiana in early Jan \- can we add MAM01 into STRIDE Engineering  
+- [ ] Kiana \- talk to Jared about getting PCY2 in the same context as the Lonza BLIMP vectors?  
+- [ ] Will \- raise re-cloning into newest Prolific Vector in bio-strategy next week. Super high priority. Needs robust resourcing  
+- [ ] **Kiana \- read MTA** from Gates Foundation re: MAM01  
+      - [ ] Ian has full access to package from Gates Foundation re: analytical  
+      - [ ] Brenna and Sasha have limited access on need-to-know basis  
+      - [ ] Other than that \- nobody should have access  
+      - [ ] Limited available amount of purified MAM01 from Gates Foundation (7 vials total have come in)  
+            - [ ] Using them specifically for quality assessment \- method development  
+            - [ ] Really important assays e.g. HPLC titer measurements  
+- [ ] Engine Room \- ask them to send stuff to Kiana   
+      - [ ] Ask Cooper about who placed orders via HappiLabs  
+      - [ ] Engine Room can share spend to-date on the award
+
+## 
+
+## Dec 11, 2025 | [Kiana \<\> Will](https://www.google.com/calendar/event?eid=M3VzcWQyM28zY2ZxbWRzcW5rOGhvN2twOGMgd2lsbEBwcm9saWZpYy1tYWNoaW5lcy5jb20)
+
+Attendees: [Will Paton](mailto:will@prolific-machines.com) [Kiana Mohajeri](mailto:kiana.mohajeri@prolific-machines.com)
+
+**Helpful docs:**
+
+- **Latest grant proposal (for cost extension to switch to MAM01)[INV-072141\_AMD 2 - Supplement\_09032025IM.docx](https://docs.google.com/document/d/1hvXAznvITLoi2-v_7MHqhSsIrcYNDdH4/edit?usp=drive_link&ouid=107219103470409924072&rtpof=true&sd=true)**  
+- **[BMGF CLD Experimental focus ](https://docs.google.com/document/d/1DNiGn5GB8PCvC2Gk0Qo3Fd1bxfzbW0giNDxit25rc6Y/edit?tab=t.0)** (list of tasks Nessa has been keeping track of)  
+  - This has been translated to the ClickUp [BMGF MAM01 Timeline](https://app.clickup.com/36217409/v/li/901111238843)  
+- **[Light-inducible MAM01 cell line development summary](https://docs.google.com/document/d/1zVcxK8jKAiJ0JqVcaPf_psOYWpgd5t3E5kItqU1c3Bw/edit?tab=t.0) \-** gives an overview of what has been done re: CLD for MAM01 and the new strategies (dates are outdated)  
+- [BMGF Monthly Project Updates](https://docs.google.com/presentation/d/1LN1eOL0kxahTbiObOwxmqM1L9YnZT6Qhw5qVneo8iA0/edit?slide=id.g3a6a8fa03eb_0_7#slide=id.g3a6a8fa03eb_0_7) \- contains table summarizing the 5 technical strategies  
+- [**Latest BMGF team meeting notes (12/10)**](https://app.clickup.com/36217409/v/dc/12h8j1-36311/12h8j1-117371) **\-** Nessa wrote a pretty detailed summary of ongoing work
+
+Notes
+
+* How can we minimize work over the break? (strategy 1\)  
+* Will provide more info on the pools that Amritha is generating right now with the opto-chassis lines  
+  * **Amritha’s list of MAM01 transfections into opto-chassis clones:**[Planning for MAMO-1 transfections](https://docs.google.com/spreadsheets/d/1T4DQP2JBX55VobSWY9girig3-iBEKMgAhmKBRKhZyP8/edit?gid=152623977#gid=152623977)  
+* Suggest pausing “Super all-in-one” approach – integrate with high mAb titer long view (with FTO) – collaborate with Alexandra  
+* Talk about timeline extension \- No cost extension  
+* Resourcing \- how much CLD time is being spent on BMGF? What other stuff is not enabled that might be higher priority?
+
+Action items
+
+- [ ] Kiana to talk to shahram about plan for opto-chassis down-selection  
+- [ ] Kiana to ask Shahram about what clones are represented in the current down-selection \- same as GA?  
+- [ ] Kiana \- ask Shahram about Super all in one \- thoughts on pausing this in interest of having FTO / aligning with broader mAb titer increase context  
+- [ ] Kiana \- ask Deniz: about possibility of No cost extension  
+- [ ] Will \- set up meeting with Christina and Kiana re: budget for the grant  
+- [ ] Kiana \- ask Nessa about  
+      - [ ] Examples of progress reports  
+            - [ ] How can Will \+ Kiana collaborate on this  
+      - [ ] Budgeting \- how she’s been handling it so far

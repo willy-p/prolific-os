@@ -1,6 +1,16 @@
 # Template .gitignore for Task Management System
 # Copy relevant parts to your .gitignore
 
+# Personal people files
+People/*.md
+!People/.gitkeep
+!People/README.md
+
+# Personal initiatives files
+Initiatives/*.md
+!Initiatives/.gitkeep
+!Initiatives/README.md
+
 # Personal task files
 Tasks/*.md
 !Tasks/.gitkeep

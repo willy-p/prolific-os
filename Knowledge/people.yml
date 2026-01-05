@@ -1,0 +1,520 @@
+people:
+  - id: deniz_kent
+    name: Deniz Kent
+    role: Chief Executive Officer
+    team: Executive
+    manager: null
+    reports:
+      - victor_jones
+      - maximiliaan_huisman
+      - nessa_morantte
+      - george_hosegood
+      - fiona_tokple
+      - christina_perry
+      - lily_paloma
+      - declan_jones
+      - vidar_van_der_meijden
+      - terra_garcia
+    projects: []
+    notes: []
+    last_updated: 2026-01-05
+  - id: victor_jones
+    name: Victor Jones
+    role: Chief Scientific Officer
+    team: Science
+    manager: deniz_kent
+    reports:
+      - kiana_mohajeri
+      - maximilian_hoerner
+      - john_haliburton
+      - shahram_misaghi
+    projects: []
+    notes: []
+    last_updated: 2026-01-05
+  - id: kiana_mohajeri
+    name: Kiana Mohajeri
+    role: Principal Scientist, Synthetic Biology
+    team: Synthetic Biology
+    manager: victor_jones
+    reports:
+      - jared_ellingsen
+      - katie_owings
+      - john_resngit
+    projects:
+      - BMGF
+    notes: []
+    last_updated: 2026-01-05
+  - id: jared_ellingsen
+    name: Jared Ellingsen
+    role: Scientist II, Synthetic Biology
+    team: Synthetic Biology
+    manager: kiana_mohajeri
+    reports:
+      - nora_mohamed
+    projects: []
+    notes: []
+    last_updated: 2026-01-05
+  - id: nora_mohamed
+    name: Nora Mohamed
+    role: Senior Research Associate
+    team: Synthetic Biology
+    manager: jared_ellingsen
+    reports: []
+    projects:
+      - BMGF
+    notes: []
+    last_updated: 2026-01-05
+  - id: katie_owings
+    name: Katie Owings
+    role: Scientist I, Synthetic Biology
+    team: Synthetic Biology
+    manager: kiana_mohajeri
+    reports: []
+    projects: []
+    notes: []
+    last_updated: 2026-01-05
+  - id: john_resngit
+    name: John Resngit
+    role: Senior Research Associate
+    team: Synthetic Biology
+    manager: kiana_mohajeri
+    reports: []
+    projects:
+      - BMGF
+    notes:
+      - Converted from contractor to full-time.
+    last_updated: 2026-01-05
+  - id: maximilian_hoerner
+    name: Maximilian Hoerner
+    role: Senior Principal Scientist, Optogenetics
+    team: Optogenetics
+    manager: victor_jones
+    reports:
+      - alexandra_fischer
+      - seesha_takagishi
+      - makoto_lalwani
+      - noreen_wauford
+      - ed_aguilar
+      - zack_harmer
+    projects: []
+    notes: []
+    last_updated: 2026-01-05
+  - id: alexandra_fischer
+    name: Alexandra Fischer
+    role: Scientist II, Optogenetics
+    team: Optogenetics
+    manager: maximilian_hoerner
+    reports: []
+    projects: []
+    notes: []
+    last_updated: 2026-01-05
+  - id: seesha_takagishi
+    name: Seesha Takagishi
+    role: Scientist I, Optogenetics
+    team: Optogenetics
+    manager: maximilian_hoerner
+    reports: []
+    projects: []
+    notes: []
+    last_updated: 2026-01-05
+  - id: makoto_lalwani
+    name: Makoto Lalwani
+    role: Scientist II, Optogenetics
+    team: Optogenetics
+    manager: maximilian_hoerner
+    reports: []
+    projects: []
+    notes: []
+    last_updated: 2026-01-05
+  - id: noreen_wauford
+    name: Noreen Wauford
+    role: Scientist II, Optogenetics
+    team: Optogenetics
+    manager: maximilian_hoerner
+    reports: []
+    projects: []
+    notes: []
+    last_updated: 2026-01-05
+  - id: ed_aguilar
+    name: Ed Aguilar
+    role: Scientist II, Viral Vector Production
+    team: Optogenetics
+    manager: maximilian_hoerner
+    reports: []
+    projects: []
+    notes: []
+    last_updated: 2026-01-05
+  - id: zack_harmer
+    name: Zack Harmer
+    role: Scientist II, Optogenetics
+    team: Optogenetics
+    manager: maximilian_hoerner
+    reports:
+      - emily_hogan
+    projects: []
+    notes: []
+    last_updated: 2026-01-05
+  - id: emily_hogan
+    name: Emily Hogan
+    role: Senior Research Associate
+    team: Optogenetics
+    manager: zack_harmer
+    reports: []
+    projects: []
+    notes: []
+    last_updated: 2026-01-05
+  - id: john_haliburton
+    name: John Haliburton
+    role: Principal Scientist, Cell Line Development
+    team: Cell Line Development
+    manager: victor_jones
+    reports:
+      - irfan_tahir
+    projects: []
+    notes: []
+    last_updated: 2026-01-05
+  - id: irfan_tahir
+    name: Irfan Tahir
+    role: Scientist I, Cell Line Development
+    team: Cell Line Development
+    manager: john_haliburton
+    reports: []
+    projects: []
+    notes: []
+    last_updated: 2026-01-05
+  - id: shahram_misaghi
+    name: Shahram Misaghi
+    role: Research Fellow, Cell Line Development
+    team: Cell Line Development
+    manager: victor_jones
+    reports:
+      - amritha_menon
+      - mare_aquiningoc
+      - basanta_dahal
+    projects: []
+    notes: []
+    last_updated: 2026-01-05
+  - id: amritha_menon
+    name: Amritha Menon
+    role: Principal Scientist, Cell Line Development
+    team: Cell Line Development
+    manager: shahram_misaghi
+    reports: []
+    projects: []
+    notes: []
+    last_updated: 2026-01-05
+  - id: mare_aquiningoc
+    name: Mare Aquiningoc
+    role: Research Associate II
+    team: Cell Line Development
+    manager: shahram_misaghi
+    reports: []
+    projects: []
+    notes: []
+    last_updated: 2026-01-05
+  - id: basanta_dahal
+    name: Basanta Dahal
+    role: Senior Scientist, Cell Line Development
+    team: Cell Line Development
+    manager: shahram_misaghi
+    reports: []
+    projects: []
+    notes: []
+    last_updated: 2026-01-05
+  - id: maximiliaan_huisman
+    name: Maximiliaan Huisman
+    role: Chief Technology Officer
+    team: Hardware
+    manager: deniz_kent
+    reports:
+      - alex_toda
+      - ryan_statz
+      - taylor_hinsdale
+      - baxter_eldridge
+    projects: []
+    notes: []
+    last_updated: 2026-01-05
+  - id: alex_toda
+    name: Alex Toda
+    role: Senior Director, Technical Operations
+    team: Technical Operations
+    manager: maximiliaan_huisman
+    reports:
+      - ian_ronningen
+      - sasha_howes
+      - brandon_nguyen
+      - james_lawrence
+      - madeleine_allen
+      - monique_hooley
+      - william_paton
+      - emily_gale
+    projects: []
+    notes: []
+    last_updated: 2026-01-05
+  - id: ian_ronningen
+    name: Ian Ronningen
+    role: Senior Principal Scientist, Analytical Chemistry
+    team: Analytical Chemistry
+    manager: alex_toda
+    reports:
+      - brenna_pleitner
+      - evelyn_hernandez
+    projects:
+      - BMGF
+    notes: []
+    last_updated: 2026-01-05
+  - id: brenna_pleitner
+    name: Brenna Pleitner
+    role: Principal Scientist, Analytical Chemistry
+    team: Analytical Chemistry
+    manager: ian_ronningen
+    reports: []
+    projects:
+      - BMGF
+    notes: []
+    last_updated: 2026-01-05
+  - id: evelyn_hernandez
+    name: Evelyn Hernandez
+    role: Scientist I, Analytical Chemistry
+    team: Analytical Chemistry
+    manager: ian_ronningen
+    reports: []
+    projects: []
+    notes: []
+    last_updated: 2026-01-05
+  - id: sasha_howes
+    name: Sasha Howes
+    role: Senior Engineer, Bioprocess Development
+    team: Bioprocess Development
+    manager: alex_toda
+    reports: []
+    projects:
+      - BMGF
+    notes: []
+    last_updated: 2026-01-05
+  - id: brandon_nguyen
+    name: Brandon Nguyen
+    role: Senior Research Associate
+    team: Bioprocess Development
+    manager: alex_toda
+    reports: []
+    projects:
+      - BMGF
+    notes: []
+    last_updated: 2026-01-05
+  - id: james_lawrence
+    name: James Lawrence
+    role: Engineer I, Bioprocess Development
+    team: Bioprocess Development
+    manager: alex_toda
+    reports: []
+    projects: []
+    notes: []
+    last_updated: 2026-01-05
+  - id: madeleine_allen
+    name: Madeleine Allen
+    role: Manager, Hardware Operations
+    team: Hardware
+    manager: alex_toda
+    reports:
+      - zoli_kauker
+    projects: []
+    notes: []
+    last_updated: 2026-01-05
+  - id: zoli_kauker
+    name: Zoli Kauker
+    role: Lead Technician, Hardware
+    team: Hardware
+    manager: madeleine_allen
+    reports: []
+    projects: []
+    notes: []
+    last_updated: 2026-01-05
+  - id: monique_hooley
+    name: Monique Hooley
+    role: Senior Manager, Scientific Operations
+    team: Scientific Operations
+    manager: alex_toda
+    reports: []
+    projects: []
+    notes: []
+    last_updated: 2026-01-05
+  - id: william_paton
+    name: William Paton
+    role: Manager, Programs
+    team: Scientific Operations
+    manager: alex_toda
+    reports: []
+    projects:
+      - BMGF
+    notes:
+      - This is me.
+    last_updated: 2026-01-05
+  - id: emily_gale
+    name: Emily Gale
+    role: Senior Manager, Scientific Operations
+    team: Scientific Operations
+    manager: alex_toda
+    reports: []
+    projects: []
+    notes: []
+    last_updated: 2026-01-05
+  - id: ryan_statz
+    name: Ryan Statz
+    role: Engineer II, Embedded Systems
+    team: Hardware
+    manager: maximiliaan_huisman
+    reports: []
+    projects: []
+    notes: []
+    last_updated: 2026-01-05
+  - id: taylor_hinsdale
+    name: Taylor Hinsdale
+    role: Staff Engineer, Optical
+    team: Hardware
+    manager: maximiliaan_huisman
+    reports: []
+    projects: []
+    notes: []
+    last_updated: 2026-01-05
+  - id: baxter_eldridge
+    name: Baxter Eldridge
+    role: Senior Engineer, Mechatronics
+    team: Hardware
+    manager: maximiliaan_huisman
+    reports:
+      - jennifer_elias
+    projects: []
+    notes: []
+    last_updated: 2026-01-05
+  - id: jennifer_elias
+    name: Jennifer Elias
+    role: Technician II, Hardware
+    team: Hardware
+    manager: baxter_eldridge
+    reports: []
+    projects: []
+    notes: []
+    last_updated: 2026-01-05
+  - id: nessa_morantte
+    name: Nessa Morantte
+    role: Principal Scientist, Therapeutic R&D
+    team: Therapeutic R&D
+    manager: deniz_kent
+    reports: []
+    projects: []
+    notes: []
+    last_updated: 2026-01-05
+  - id: george_hosegood
+    name: George Hosegood
+    role: Vice President, Operations & Strategy
+    team: Operations & Strategy
+    manager: deniz_kent
+    reports:
+      - pete_czerpak
+    projects: []
+    notes: []
+    last_updated: 2026-01-05
+  - id: pete_czerpak
+    name: Pete Czerpak
+    role: Director, Facilities & Senior Principal Engineer, Bioprocess
+    team: Facilities
+    manager: george_hosegood
+    reports:
+      - rafael_daigle
+      - alyssa_cooper
+    projects: []
+    notes: []
+    last_updated: 2026-01-05
+  - id: rafael_daigle
+    name: Rafael Daigle
+    role: Facilities Operations Manager
+    team: Facilities
+    manager: pete_czerpak
+    reports: []
+    projects: []
+    notes: []
+    last_updated: 2026-01-05
+  - id: alyssa_cooper
+    name: Alyssa Cooper
+    role: Lab Manager
+    team: Facilities
+    manager: pete_czerpak
+    reports: []
+    projects: []
+    notes: []
+    last_updated: 2026-01-05
+  - id: fiona_tokple
+    name: Fiona Tokple
+    role: Chief of Staff
+    team: Executive
+    manager: deniz_kent
+    reports: []
+    projects: []
+    notes: []
+    last_updated: 2026-01-05
+  - id: christina_perry
+    name: Christina Perry
+    role: Chief Financial Officer
+    team: Executive
+    manager: deniz_kent
+    reports: []
+    projects: []
+    notes: []
+    last_updated: 2026-01-05
+  - id: lily_paloma
+    name: Lily Paloma
+    role: Head of People
+    team: People
+    manager: deniz_kent
+    reports: []
+    projects: []
+    notes: []
+    last_updated: 2026-01-05
+  - id: declan_jones
+    name: Declan Jones
+    role: Chief Data Officer
+    team: Data
+    manager: deniz_kent
+    reports:
+      - matthew_fay
+    projects: []
+    notes: []
+    last_updated: 2026-01-05
+  - id: matthew_fay
+    name: Matthew Fay
+    role: Principal Engineer, Data
+    team: Data
+    manager: declan_jones
+    reports: []
+    projects: []
+    notes: []
+    last_updated: 2026-01-05
+  - id: vidar_van_der_meijden
+    name: Vidar van der Meijden
+    role: Vice President, Product
+    team: Product
+    manager: deniz_kent
+    reports:
+      - sara_kemppainen
+    projects: []
+    notes: []
+    last_updated: 2026-01-05
+  - id: sara_kemppainen
+    name: Sara Kemppainen
+    role: Senior Manager, Business Development
+    team: Business Development
+    manager: vidar_van_der_meijden
+    reports: []
+    projects: []
+    notes: []
+    last_updated: 2026-01-05
+  - id: terra_garcia
+    name: Terra Garcia
+    role: Senior Executive Assistant & HR Business Partner
+    team: People / Admin
+    manager: deniz_kent
+    reports: []
+    projects: []
+    notes: []
+    last_updated: 2026-01-05
