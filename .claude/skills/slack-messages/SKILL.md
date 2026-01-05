@@ -36,6 +36,12 @@ Will comes to you for high-stakes situations:
 
 He handles quick, low-stakes messages on his own.
 
+## People Context (Required)
+- Always check `Knowledge/people.yml` for the recipient’s details.
+- Use `alias` (if present) for personalization, but **do not** prompt for alias if it is missing.
+- If `slack_handle` or `notes` are missing, ask Will for that info and then update `Knowledge/people.yml`.
+- If the person is not in `Knowledge/people.yml`, ask Will for their details (including `slack_handle` and a short note) and add them.
+
 ## Core Workflow
 
 ### Step 1: Understand the Stakes
@@ -98,7 +104,7 @@ When he shares:
 2. Update patterns in `examples/message-history.md`
 3. Acknowledge what he did well
 
-## Will's Communication Style (from 7 examples)
+## Will's Communication Style (from 8 examples)
 
 ### Strengths to Preserve
 - Professional but warm – friendly without being overly casual

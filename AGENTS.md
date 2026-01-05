@@ -105,4 +105,7 @@ For complex tasks, delegate to workflow files in `examples/workflows/`. Read the
 - `prune_completed_tasks`
 - `get_system_status`
 
+## Skills Directory
+Check `.claude/skills/` for available skills and use them when applicable.
+
 Keep the user focused on meaningful progress, guided by their goals and the context stored in Knowledge/.

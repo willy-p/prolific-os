@@ -16,6 +16,8 @@ people:
       - vidar_van_der_meijden
       - terra_garcia
     projects: []
+    alias: null
+    slack_handle: null
     notes: []
     last_updated: 2026-01-05
   - id: victor_jones
@@ -29,6 +31,8 @@ people:
       - john_haliburton
       - shahram_misaghi
     projects: []
+    alias: null
+    slack_handle: null
     notes: []
     last_updated: 2026-01-05
   - id: kiana_mohajeri
@@ -42,7 +46,11 @@ people:
       - john_resngit
     projects:
       - BMGF
-    notes: []
+    alias: null
+    slack_handle: "@kiana"
+    notes:
+      - High performer, collaborative, smart, kind.
+      - Recently started working together and it's going well.
     last_updated: 2026-01-05
   - id: jared_ellingsen
     name: Jared Ellingsen
@@ -52,6 +60,8 @@ people:
     reports:
       - nora_mohamed
     projects: []
+    alias: null
+    slack_handle: null
     notes: []
     last_updated: 2026-01-05
   - id: nora_mohamed
@@ -62,6 +72,8 @@ people:
     reports: []
     projects:
       - BMGF
+    alias: null
+    slack_handle: null
     notes: []
     last_updated: 2026-01-05
   - id: katie_owings
@@ -71,6 +83,8 @@ people:
     manager: kiana_mohajeri
     reports: []
     projects: []
+    alias: null
+    slack_handle: null
     notes: []
     last_updated: 2026-01-05
   - id: john_resngit
@@ -81,6 +95,8 @@ people:
     reports: []
     projects:
       - BMGF
+    alias: null
+    slack_handle: null
     notes:
       - Converted from contractor to full-time.
     last_updated: 2026-01-05
@@ -97,6 +113,8 @@ people:
       - ed_aguilar
       - zack_harmer
     projects: []
+    alias: null
+    slack_handle: null
     notes: []
     last_updated: 2026-01-05
   - id: alexandra_fischer
@@ -106,6 +124,8 @@ people:
     manager: maximilian_hoerner
     reports: []
     projects: []
+    alias: null
+    slack_handle: null
     notes: []
     last_updated: 2026-01-05
   - id: seesha_takagishi
@@ -115,6 +135,8 @@ people:
     manager: maximilian_hoerner
     reports: []
     projects: []
+    alias: null
+    slack_handle: null
     notes: []
     last_updated: 2026-01-05
   - id: makoto_lalwani
@@ -124,6 +146,8 @@ people:
     manager: maximilian_hoerner
     reports: []
     projects: []
+    alias: null
+    slack_handle: null
     notes: []
     last_updated: 2026-01-05
   - id: noreen_wauford
@@ -133,6 +157,8 @@ people:
     manager: maximilian_hoerner
     reports: []
     projects: []
+    alias: null
+    slack_handle: null
     notes: []
     last_updated: 2026-01-05
   - id: ed_aguilar
@@ -142,6 +168,8 @@ people:
     manager: maximilian_hoerner
     reports: []
     projects: []
+    alias: null
+    slack_handle: null
     notes: []
     last_updated: 2026-01-05
   - id: zack_harmer
@@ -152,6 +180,8 @@ people:
     reports:
       - emily_hogan
     projects: []
+    alias: null
+    slack_handle: null
     notes: []
     last_updated: 2026-01-05
   - id: emily_hogan
@@ -161,6 +191,8 @@ people:
     manager: zack_harmer
     reports: []
     projects: []
+    alias: null
+    slack_handle: null
     notes: []
     last_updated: 2026-01-05
   - id: john_haliburton
@@ -171,6 +203,8 @@ people:
     reports:
       - irfan_tahir
     projects: []
+    alias: null
+    slack_handle: null
     notes: []
     last_updated: 2026-01-05
   - id: irfan_tahir
@@ -180,6 +214,8 @@ people:
     manager: john_haliburton
     reports: []
     projects: []
+    alias: null
+    slack_handle: null
     notes: []
     last_updated: 2026-01-05
   - id: shahram_misaghi
@@ -192,6 +228,8 @@ people:
       - mare_aquiningoc
       - basanta_dahal
     projects: []
+    alias: null
+    slack_handle: null
     notes: []
     last_updated: 2026-01-05
   - id: amritha_menon
@@ -201,7 +239,12 @@ people:
     manager: shahram_misaghi
     reports: []
     projects: []
-    notes: []
+    alias: null
+    slack_handle: "@Amritha Menon"
+    notes:
+      - Very senior scientist, spends a lot of time in the lab.
+      - Not always responsive, occasional miscommunication.
+      - External collaborator on BMGF project (not core team, helping out).
     last_updated: 2026-01-05
   - id: mare_aquiningoc
     name: Mare Aquiningoc
@@ -210,6 +253,8 @@ people:
     manager: shahram_misaghi
     reports: []
     projects: []
+    alias: null
+    slack_handle: null
     notes: []
     last_updated: 2026-01-05
   - id: basanta_dahal
@@ -219,6 +264,8 @@ people:
     manager: shahram_misaghi
     reports: []
     projects: []
+    alias: null
+    slack_handle: null
     notes: []
     last_updated: 2026-01-05
   - id: maximiliaan_huisman
@@ -232,6 +279,8 @@ people:
       - taylor_hinsdale
       - baxter_eldridge
     projects: []
+    alias: null
+    slack_handle: null
     notes: []
     last_updated: 2026-01-05
   - id: alex_toda
@@ -249,6 +298,8 @@ people:
       - william_paton
       - emily_gale
     projects: []
+    alias: null
+    slack_handle: null
     notes: []
     last_updated: 2026-01-05
   - id: ian_ronningen
@@ -261,6 +312,8 @@ people:
       - evelyn_hernandez
     projects:
       - BMGF
+    alias: null
+    slack_handle: null
     notes: []
     last_updated: 2026-01-05
   - id: brenna_pleitner
@@ -271,6 +324,8 @@ people:
     reports: []
     projects:
       - BMGF
+    alias: null
+    slack_handle: null
     notes: []
     last_updated: 2026-01-05
   - id: evelyn_hernandez
@@ -280,6 +335,8 @@ people:
     manager: ian_ronningen
     reports: []
     projects: []
+    alias: null
+    slack_handle: null
     notes: []
     last_updated: 2026-01-05
   - id: sasha_howes
@@ -290,6 +347,8 @@ people:
     reports: []
     projects:
       - BMGF
+    alias: null
+    slack_handle: null
     notes: []
     last_updated: 2026-01-05
   - id: brandon_nguyen
@@ -300,6 +359,8 @@ people:
     reports: []
     projects:
       - BMGF
+    alias: null
+    slack_handle: null
     notes: []
     last_updated: 2026-01-05
   - id: james_lawrence
@@ -309,6 +370,8 @@ people:
     manager: alex_toda
     reports: []
     projects: []
+    alias: null
+    slack_handle: null
     notes: []
     last_updated: 2026-01-05
   - id: madeleine_allen
@@ -319,6 +382,8 @@ people:
     reports:
       - zoli_kauker
     projects: []
+    alias: null
+    slack_handle: null
     notes: []
     last_updated: 2026-01-05
   - id: zoli_kauker
@@ -328,6 +393,8 @@ people:
     manager: madeleine_allen
     reports: []
     projects: []
+    alias: null
+    slack_handle: null
     notes: []
     last_updated: 2026-01-05
   - id: monique_hooley
@@ -337,6 +404,8 @@ people:
     manager: alex_toda
     reports: []
     projects: []
+    alias: null
+    slack_handle: null
     notes: []
     last_updated: 2026-01-05
   - id: william_paton
@@ -347,6 +416,8 @@ people:
     reports: []
     projects:
       - BMGF
+    alias: null
+    slack_handle: null
     notes:
       - This is me.
     last_updated: 2026-01-05
@@ -357,6 +428,8 @@ people:
     manager: alex_toda
     reports: []
     projects: []
+    alias: null
+    slack_handle: null
     notes: []
     last_updated: 2026-01-05
   - id: ryan_statz
@@ -366,6 +439,8 @@ people:
     manager: maximiliaan_huisman
     reports: []
     projects: []
+    alias: null
+    slack_handle: null
     notes: []
     last_updated: 2026-01-05
   - id: taylor_hinsdale
@@ -375,6 +450,8 @@ people:
     manager: maximiliaan_huisman
     reports: []
     projects: []
+    alias: null
+    slack_handle: null
     notes: []
     last_updated: 2026-01-05
   - id: baxter_eldridge
@@ -385,6 +462,8 @@ people:
     reports:
       - jennifer_elias
     projects: []
+    alias: null
+    slack_handle: null
     notes: []
     last_updated: 2026-01-05
   - id: jennifer_elias
@@ -394,6 +473,8 @@ people:
     manager: baxter_eldridge
     reports: []
     projects: []
+    alias: null
+    slack_handle: null
     notes: []
     last_updated: 2026-01-05
   - id: nessa_morantte
@@ -403,6 +484,8 @@ people:
     manager: deniz_kent
     reports: []
     projects: []
+    alias: null
+    slack_handle: null
     notes: []
     last_updated: 2026-01-05
   - id: george_hosegood
@@ -413,6 +496,8 @@ people:
     reports:
       - pete_czerpak
     projects: []
+    alias: null
+    slack_handle: null
     notes: []
     last_updated: 2026-01-05
   - id: pete_czerpak
@@ -424,6 +509,8 @@ people:
       - rafael_daigle
       - alyssa_cooper
     projects: []
+    alias: null
+    slack_handle: null
     notes: []
     last_updated: 2026-01-05
   - id: rafael_daigle
@@ -433,6 +520,8 @@ people:
     manager: pete_czerpak
     reports: []
     projects: []
+    alias: null
+    slack_handle: null
     notes: []
     last_updated: 2026-01-05
   - id: alyssa_cooper
@@ -442,6 +531,8 @@ people:
     manager: pete_czerpak
     reports: []
     projects: []
+    alias: null
+    slack_handle: null
     notes: []
     last_updated: 2026-01-05
   - id: fiona_tokple
@@ -451,6 +542,8 @@ people:
     manager: deniz_kent
     reports: []
     projects: []
+    alias: null
+    slack_handle: null
     notes: []
     last_updated: 2026-01-05
   - id: christina_perry
@@ -460,6 +553,8 @@ people:
     manager: deniz_kent
     reports: []
     projects: []
+    alias: null
+    slack_handle: null
     notes: []
     last_updated: 2026-01-05
   - id: lily_paloma
@@ -469,6 +564,8 @@ people:
     manager: deniz_kent
     reports: []
     projects: []
+    alias: null
+    slack_handle: null
     notes: []
     last_updated: 2026-01-05
   - id: declan_jones
@@ -479,6 +576,8 @@ people:
     reports:
       - matthew_fay
     projects: []
+    alias: null
+    slack_handle: null
     notes: []
     last_updated: 2026-01-05
   - id: matthew_fay
@@ -488,6 +587,8 @@ people:
     manager: declan_jones
     reports: []
     projects: []
+    alias: null
+    slack_handle: null
     notes: []
     last_updated: 2026-01-05
   - id: vidar_van_der_meijden
@@ -498,6 +599,8 @@ people:
     reports:
       - sara_kemppainen
     projects: []
+    alias: null
+    slack_handle: null
     notes: []
     last_updated: 2026-01-05
   - id: sara_kemppainen
@@ -507,6 +610,8 @@ people:
     manager: vidar_van_der_meijden
     reports: []
     projects: []
+    alias: null
+    slack_handle: null
     notes: []
     last_updated: 2026-01-05
   - id: terra_garcia
@@ -516,5 +621,7 @@ people:
     manager: deniz_kent
     reports: []
     projects: []
+    alias: null
+    slack_handle: null
     notes: []
     last_updated: 2026-01-05

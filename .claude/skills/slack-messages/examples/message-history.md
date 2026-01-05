@@ -243,6 +243,31 @@ Each time you use the slack-messages skill and share what you actually sent, an 
 
 ---
 
+### Example 8 – Status Request to Multiple Recipients with Personalized Note
+
+**Context:** Checking in with Basanta and John R on cell lines they were maintaining over the holidays for the BMGF project. John is currently sick. Kiana included for visibility since she's on the project.
+
+**What you sent:**
+> Hey @John Resngit @Basanta, happy new year! Thanks both for coming in over the holidays to keep our cells happy – you guys rock! :bow::skin-tone-2:
+> Wanted to check in on the status of those cells – would you mind sharing a brief update on anything that happened over the break and where things currently stand? Thanks!
+> (and @John Resngit, sorry to hear that you're sick – no need to respond to this today. Feel better :mending_heart:)
+
+**Observations:**
+- Opens with multiple @mentions together when message is for both people equally
+- "Happy new year!" – seasonal warmth appropriate for first post-holiday contact
+- Genuine gratitude for holiday work: "Thanks both for coming in over the holidays"
+- Casual, warm language: "keep our cells happy", "you guys rock!"
+- Uses emoji for warmth in gratitude (:bow::skin-tone-2:)
+- Status ask is open-ended but bounded: "brief update on anything that happened over the break and where things currently stand"
+- Personalized aside to one recipient in parentheses – acknowledges individual circumstance without making it the focus
+- Explicitly removes pressure from sick colleague: "no need to respond to this today"
+- Empathetic emoji for personal note (:mending_heart:)
+- "Thanks!" closer after the ask
+- Kiana included in DM for visibility (mentioned in context, not in message itself)
+- Pattern: when looping someone in who doesn't need to act, no need to call it out if it's clear from context
+
+---
+
 <!--
 Template for new entries:
 
@@ -293,6 +318,7 @@ Template for new entries:
 
 ### By situation type
 - **Status requests:** Collaborative framing ("our end", "we're aligned"), specific questions, context for why asking
+- **Status requests (multiple recipients):** Multiple @mentions up front, acknowledge shared contribution, personalized asides in parentheses for individual circumstances, explicitly remove pressure when appropriate
 - **Meeting follow-ups (external partner):** Gratitude opener, emoji section headers, decisions with attribution, next steps with owners and deadlines, cc for visibility
 - **Meeting notes (internal):** Brief gratitude opener, link to notes, simple action item list (@Owner + task + timeframe), no closing needed, minimal formatting
 - **Project/steering committee updates:** Highlight teammate contributions, link to notes, "Key Discussion:" label, action items grouped by workstream, business context (timelines, FTE, alignment), text labels instead of emoji for formal updates
