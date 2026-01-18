@@ -252,7 +252,7 @@ When he shares:
 - `[ ]` and `[x]` for checklists (clickable in Slack)
 
 **Links and mentions:**
-- `https://example.com` for simple links
+- `<https://example.com>` for simple links
 - `[Display text](https://example.com)` for links with custom text
 - `@username`, `@channel`, `@here` for mentions
 

@@ -32,7 +32,7 @@ people:
       - shahram_misaghi
     projects: []
     alias: null
-    slack_handle: null
+    slack_handle: "@Victor"
     notes: []
     last_updated: 2026-01-05
   - id: kiana_mohajeri
@@ -47,7 +47,7 @@ people:
     projects:
       - BMGF
     alias: null
-    slack_handle: "@kiana"
+    slack_handle: "@Kiana"
     notes:
       - High performer, collaborative, smart, kind.
       - Recently started working together and it's going well.
@@ -158,7 +158,7 @@ people:
     reports: []
     projects: []
     alias: null
-    slack_handle: null
+    slack_handle: "@Noreen"
     notes: []
     last_updated: 2026-01-05
   - id: ed_aguilar
@@ -181,7 +181,7 @@ people:
       - emily_hogan
     projects: []
     alias: null
-    slack_handle: null
+    slack_handle: "@Zack"
     notes: []
     last_updated: 2026-01-05
   - id: emily_hogan
@@ -215,7 +215,7 @@ people:
     reports: []
     projects: []
     alias: null
-    slack_handle: null
+    slack_handle: "@Irfan"
     notes: []
     last_updated: 2026-01-05
   - id: shahram_misaghi
@@ -229,7 +229,7 @@ people:
       - basanta_dahal
     projects: []
     alias: null
-    slack_handle: null
+    slack_handle: "@Shahram"
     notes: []
     last_updated: 2026-01-05
   - id: amritha_menon
@@ -299,7 +299,7 @@ people:
       - emily_gale
     projects: []
     alias: null
-    slack_handle: null
+    slack_handle: "@Alex Toda"
     notes: []
     last_updated: 2026-01-05
   - id: ian_ronningen
@@ -313,7 +313,7 @@ people:
     projects:
       - BMGF
     alias: null
-    slack_handle: null
+    slack_handle: "@Ian"
     notes: []
     last_updated: 2026-01-05
   - id: brenna_pleitner
@@ -348,7 +348,7 @@ people:
     projects:
       - BMGF
     alias: null
-    slack_handle: null
+    slack_handle: "@Sasha"
     notes: []
     last_updated: 2026-01-05
   - id: brandon_nguyen
@@ -382,8 +382,8 @@ people:
     reports:
       - zoli_kauker
     projects: []
-    alias: null
-    slack_handle: null
+    alias: Mads
+    slack_handle: "@Mads"
     notes: []
     last_updated: 2026-01-05
   - id: zoli_kauker
@@ -416,8 +416,8 @@ people:
     reports: []
     projects:
       - BMGF
-    alias: null
-    slack_handle: null
+    alias: Will Paton
+    slack_handle: "@Will"
     notes:
       - This is me.
     last_updated: 2026-01-05
@@ -429,7 +429,7 @@ people:
     reports: []
     projects: []
     alias: null
-    slack_handle: null
+    slack_handle: "@Emily"
     notes: []
     last_updated: 2026-01-05
   - id: ryan_statz
@@ -510,7 +510,7 @@ people:
       - alyssa_cooper
     projects: []
     alias: null
-    slack_handle: null
+    slack_handle: "@pete czerpak"
     notes: []
     last_updated: 2026-01-05
   - id: rafael_daigle
@@ -552,11 +552,13 @@ people:
     team: Executive
     manager: deniz_kent
     reports: []
-    projects: []
+    projects:
+      - BMGF
     alias: null
-    slack_handle: null
-    notes: []
-    last_updated: 2026-01-05
+    slack_handle: "@Christina Perry"
+    notes:
+      - Key contact for BMGF budget and Engine Room coordination.
+    last_updated: 2026-01-13
   - id: lily_paloma
     name: Lily Paloma
     role: Head of People
@@ -600,7 +602,7 @@ people:
       - sara_kemppainen
     projects: []
     alias: null
-    slack_handle: null
+    slack_handle: "@Vidar"
     notes: []
     last_updated: 2026-01-05
   - id: sara_kemppainen
@@ -611,7 +613,7 @@ people:
     reports: []
     projects: []
     alias: null
-    slack_handle: null
+    slack_handle: "@Sara"
     notes: []
     last_updated: 2026-01-05
   - id: terra_garcia

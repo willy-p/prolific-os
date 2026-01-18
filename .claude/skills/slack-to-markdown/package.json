@@ -1,0 +1,24 @@
+{
+  "name": "slack-to-markdown",
+  "version": "1.0.0",
+  "description": "Convert Slack HTML to clean Markdown using Turndown",
+  "main": "convert.js",
+  "bin": {
+    "slack-to-md": "./convert.js"
+  },
+  "scripts": {
+    "convert": "node convert.js"
+  },
+  "dependencies": {
+    "turndown": "^7.1.2",
+    "turndown-plugin-gfm": "^1.0.2"
+  },
+  "keywords": [
+    "slack",
+    "markdown",
+    "html",
+    "turndown",
+    "converter"
+  ],
+  "license": "MIT"
+}
